@@ -1,0 +1,16 @@
+Dados do aluno
+
+-Primeiro Nome: João    
+-Profissão: Analista de Software/ Qa
+-Cidade:Franca-Sp
+-O que faz nas horas vaga: Curto games e Esportes.
+
+-Feedback sobre o curso Qualidade de Software: Me fornecendo o conhecimento necessário para minha transição de carreira.
+
+-Feedback sobre a plataforma de estudo da EBAC:Como todo Software desenvolvido sempre existem melhorias a serem feitas.
+Nesse exercício, ao passar os slides para rever o passo a passo do exercício, a númeração conforme seguimos ou voltamos slide,
+não estava modificando conforme página selecionada.
+
+Obrigado!!!
+
+
